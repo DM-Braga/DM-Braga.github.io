@@ -8,71 +8,65 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/DM-Braga/portifolio-curriculo/241a9b15332cb71980145aa6f1758faaa721b1a5/data/imgs/Java.svg"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "SpringBoot",
+        "logo": "https://raw.githubusercontent.com/DM-Braga/portifolio-curriculo/241a9b15332cb71980145aa6f1758faaa721b1a5/data/imgs/SpringBoot.svg"
       },
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/DM-Braga/portifolio-curriculo/241a9b15332cb71980145aa6f1758faaa721b1a5/data/imgs/Angular.svg"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/DM-Braga/portifolio-curriculo/241a9b15332cb71980145aa6f1758faaa721b1a5/data/imgs/Python.svg"
       }
     ],
     "softSkills": [
-      "Empatia",
       "Liderança",
+      "Organização",
+      "Organização",
+      "Comprometimento com resultados",
+      "Comunicação",
       "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização"
+      "Adaptabilidade",
+      "Visionário"
     ]
   },
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Espanhol (intermediário)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Criando uma pokedex com integração de uma API de pokemons",
+      "url": "https://github.com/DM-Braga/pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Criando um clone da Netflix",
+      "url": "https://github.com/DM-Braga/netflix-clone",
+      "github": true
+    },
+    {
+      "name": "Criando um clone da DIO._",
+      "url": "https://github.com/DM-Braga/clone-dio",
+      "github": true
+    },
+    {
+      "name": "Criando um sistema de controle de vaga de estacionamento no condominio",
+      "url": "https://github.com/DM-Braga/parking-control",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-    },
-    {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Estagiário em Tech / CERC",
+      "period": "Abr 2023 - até o momento",
+      "description": " 1ª Rotação de Aréa - Atuando com desenvolvimento Web utilizando as tecnologias Angular com TypeScript para intregação e criação de WebSites dinamicos no Front-End, além de atuar no Back-End utilizando Java com Spring Framework para criação de um gestor de contas e um Workflow para controle de DVP."
     }
   ]
 }
